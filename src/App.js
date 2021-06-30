@@ -4,7 +4,6 @@ import NavMenu from './components/NavMenu';
 import About from './pages/About';
 import Contact from './pages/Contact';
 import Footer from './components/Footer';
-
 import Home from './pages/Home';
 import Projects from './pages/Projects';
 import SmoothScrollbar from './components/SmoothScrollbar';
